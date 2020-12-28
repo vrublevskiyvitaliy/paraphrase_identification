@@ -1,3 +1,5 @@
+gcloud/notebook_env.db
+gcloud/notebook_env_v1.db
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
